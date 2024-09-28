@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mlindarn.github.io/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/app/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/assets/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/css/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/data/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/includes/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/item/sitemap.mlindarn.gz
+Sitemap: https://mlindarn.github.io/src/sitemap.mlindarn.gz
